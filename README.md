@@ -2,7 +2,7 @@
 Hacker-login-form <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./anime.png" />
+  <img alt="Demo" src="./hacker.png" />
 </div>
 
 <br/>
