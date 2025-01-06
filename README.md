@@ -1,5 +1,5 @@
 <h2 align="center">
-Animated-login-form - v2.0<br/>
+Hacker-login-form <br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="./anime.png" />
